@@ -1,0 +1,9 @@
+C:\Temp\UMGame\UMGame.Library\bin\Debug\netstandard2.0\UMGame.Library.deps.json
+C:\Temp\UMGame\UMGame.Library\bin\Debug\netstandard2.0\UMGame.Library.dll
+C:\Temp\UMGame\UMGame.Library\bin\Debug\netstandard2.0\UMGame.Library.pdb
+C:\Temp\UMGame\UMGame.Library\obj\Debug\netstandard2.0\UMGame.Library.csprojResolveAssemblyReference.cache
+C:\Temp\UMGame\UMGame.Library\obj\Debug\netstandard2.0\UMGame.Library.csproj.CoreCompileInputs.cache
+C:\Temp\UMGame\UMGame.Library\obj\Debug\netstandard2.0\UMGame.Library.AssemblyInfoInputs.cache
+C:\Temp\UMGame\UMGame.Library\obj\Debug\netstandard2.0\UMGame.Library.AssemblyInfo.cs
+C:\Temp\UMGame\UMGame.Library\obj\Debug\netstandard2.0\UMGame.Library.dll
+C:\Temp\UMGame\UMGame.Library\obj\Debug\netstandard2.0\UMGame.Library.pdb
